@@ -1,0 +1,1 @@
+Placeholder for backend scaffolds (API endpoints, role management).
